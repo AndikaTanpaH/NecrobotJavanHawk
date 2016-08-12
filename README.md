@@ -2,15 +2,15 @@
 This for visual Necrobot (v0.8.5) if any update from there i'll update this page. Don't forget create [issue](https://github.com/AndikaTanpaH/NecrobotJavanHawk/issues) if you found any bug or feature request to improve this JavanHawk. I hope you happy at all :D
 
 ## Feature
-- [x] Evolution Pokemon
-- [x] Transfer Pokemon
+- [x] Can Evolution & Transfer Pokemon
+- [x] Sorted pokemon by IV, CP, Name, HP & ID Pokedex
 - [x] Show information Attack, Defense & Stamina
 - [x] Show information IV, CP, HP, Level Pokemon
 - [x] Show information pokemon skill attack name (Ember Fast | Heat Wave)
 - [x] Responsive view list
 - [x] Show incubator eggs
 - [x] Show inventory items
-- [ ] Multi transfer (under progess)
+- [ ] Bulk transfer (under progess)
 - [ ] Show Profile Trainer (under progess)
 - [ ] Powerup Pokemon (i didnt find the api)
 - [ ] Rename Pokemon (i didnt find the api)
