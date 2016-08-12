@@ -1,0 +1,7 @@
+.env
+.npm
+node_modules
+bower_components
+certs
+dist
+npm_debug.log
