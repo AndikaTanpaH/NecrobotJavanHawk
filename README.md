@@ -1,4 +1,4 @@
-# NecrobotJavanHawk  ![Screenshot](https://github.com/AndikaTanpaH/NecrobotJavanHawk/blob/master/build/javanhawkcolor.png?raw=true) 
+# NecrobotJavanHawk v0.2.12  ![Screenshot](https://github.com/AndikaTanpaH/NecrobotJavanHawk/blob/master/build/javanhawkcolor.png?raw=true) 
 This for visual Necrobot (v0.8.5) if any update from there i'll update this page. Don't forget create [issue](https://github.com/AndikaTanpaH/NecrobotJavanHawk/issues) if you found any bug or feature request to improve this JavanHawk. I hope you happy at all :D
 
 ## Feature
@@ -8,13 +8,16 @@ This for visual Necrobot (v0.8.5) if any update from there i'll update this page
 - [x] Show information IV, CP, HP, Level Pokemon
 - [x] Show information pokemon skill attack name (Ember Fast | Heat Wave)
 - [x] Responsive view list
+- [x] Show incubator eggs
+- [x] Show inventory items
 - [ ] Multi transfer (under progess)
 - [ ] Show Profile Trainer (under progess)
 - [ ] Powerup Pokemon (i didnt find the api)
 - [ ] Rename Pokemon (i didnt find the api)
+- [ ] Use gmaps api (long planning)
 
 ## How to Use
-Download the [latest Release](https://github.com/AndikaTanpaH/NecrobotJavanHawk/releases)
+Download the [Latest Release](https://github.com/AndikaTanpaH/NecrobotJavanHawk/releases)
 
 #### Node.js
 1. Install [Node.js](https://nodejs.org/en/download/)
