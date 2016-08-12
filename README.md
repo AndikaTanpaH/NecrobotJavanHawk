@@ -1,5 +1,5 @@
 # NecrobotJavanHawk v0.2.12  ![Screenshot](https://github.com/AndikaTanpaH/NecrobotJavanHawk/blob/master/build/javanhawkcolor.png?raw=true) 
-This for visual Necrobot (v0.8.5) if any update from there i'll update this page. Don't forget to [create issue](https://github.com/AndikaTanpaH/NecrobotJavanHawk/issues) if you found any bug or feature request to improve this JavanHawk. I hope you happy at all :D
+This for visual Necrobot (v0.8.6) if any update from there i'll update this page. Don't forget to [create issue](https://github.com/AndikaTanpaH/NecrobotJavanHawk/issues) if you found any bug or feature request to improve this JavanHawk. I hope you happy at all :D
 
 ## Feature
 - [x] Can Evolution & Transfer Pokemon
