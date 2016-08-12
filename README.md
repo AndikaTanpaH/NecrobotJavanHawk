@@ -17,9 +17,16 @@ This for visual Necrobot (v0.8.5) if any update from there i'll update this page
 - [ ] Use gmaps api (long planning)
 
 ## How to Use
-Download the [Latest Release](https://github.com/AndikaTanpaH/NecrobotJavanHawk/releases)
+Download the [Latest Release NecrobotJavanHawk](https://github.com/AndikaTanpaH/NecrobotJavanHawk/releases)
 
-#### Node.js
+If you not a developer just download the win-64bit.zip, extract it and run NecrobotJavanHawk.exe
+
+Make sure to enable UseWebsocket on necrobot config.json
+```"UseWebsocket": true,
+"WebSocketPort": 14251,```
+
+Run from source code:
+####A. Node.js
 1. Install [Node.js](https://nodejs.org/en/download/)
 2. Start the node command line
 3. Navigate to your NecrobotJavanHawk folder
@@ -27,7 +34,7 @@ Download the [Latest Release](https://github.com/AndikaTanpaH/NecrobotJavanHawk/
 5. To start enter: ```npm start```
 6. Will launch electron application
 
-#### Python
+####B. Python
 1. Install [Python](https://www.python.org/downloads/)
 2. Start command line
 3. Navigate to your NecrobotJavanHawk/app folder
