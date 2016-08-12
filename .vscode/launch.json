@@ -1,0 +1,25 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Mockup Server",
+            "type": "node",
+            "request": "launch",
+            "program": "${workspaceRoot}/mockupserver/server.js",
+            "stopOnEntry": false,
+            "args": [],
+            "cwd": "${workspaceRoot}/mockupserver",
+            "preLaunchTask": null,
+            "runtimeExecutable": null,
+            "runtimeArgs": [
+                "--nolazy"
+            ],
+            "env": {
+                "NODE_ENV": "development"
+            },
+            "externalConsole": false,
+            "sourceMaps": false,
+            "outDir": null
+        }
+    ]
+}
