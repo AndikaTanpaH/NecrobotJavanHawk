@@ -1,0 +1,10 @@
+{
+  "name": "NecrobotJavanHawk",
+  "version": "0.2.12",
+  "description": "Necrobot JavanHawk",
+  "author": "Andika Hermansyah",
+  "main": "main.js",
+  "dependencies": {
+    "electron-squirrel-startup": "^1.0.0"
+  }
+}
