@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <title>NecroBot JavanHawk - Config</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" href="assets/css/app.css">
+    <link rel="stylesheet" href="assets/css/config.css">
+
+    <script>if (typeof module === 'object') {window.module = module; module = undefined;}</script>
+    <script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
+    <script>if (window.module) module = window.module;</script>
+
+    <script src="scripts/config.js"></script>
+
+    <script>
+        var appconfig =  window.configService.load();
+
+        function saveConfig() {
+            if (appconfig.websocket != $("#txtWebSocket").val()) {
+                // clean context if url is changed (change bot ?)
+                sessionStorage.setItem("available", false)
+            } 
+
+            appconfig.locale = $("#slLocale").val();
+            appconfig.websocket = $("#txtWebSocket").val();
+            appconfig.followPlayer = $("#chkFollowPlayer").prop("checked") || false;
+            appconfig.noPopup = $("#chkNoPopup").prop("checked") || false;
+
+            window.configService.save(appconfig);
+            navigateAway();
+        }
+
+        function navigateAway() {
+            window.location = "index.html";
+        }
+
+        $(function() {
+            $("#slLocale").val(appconfig.locale);
+            $("#txtWebSocket").val(appconfig.websocket);
+            $("#chkFollowPlayer").prop('checked', appconfig.followPlayer || false);
+            $("#chkNoPopup").prop('checked', appconfig.noPopup || false);
+
+            $("#saveBtn").click(saveConfig);
+            $("#cancelBtn").click(navigateAway);
+        });
+    </script>    
+  </head>
+  
+  <body>
+    <div class="content">
+        <h2>JavanHawk Config</h2>
+        <form>
+            <ul class="config-form">
+                <li>
+                    <label>Locale</label>
+                    <select id="slLocale" name="locale" class="field-common">
+                        <option value="en">English</option>
+                        <option value="fr">Francais</option>
+                        <option value="de">German</option>
+                        <option value="cn">Chineese</option>
+                        <option value="tw">Taiwan</option>
+                    </select>
+                </li>
+                <li>
+                    <label>Map options</label>
+                    <div><input type="checkbox" id="chkFollowPlayer" class="field-comon" /><span>Follow player on map</span></div>
+                    <div><input type="checkbox" id="chkNoPopup" class="field-comon" /><span>Disable popups</span></div>
+                </li>
+                <li>
+                    <label>Bot Websocket</label>
+                    <input type="text" id="txtWebSocket" class="field-common" placeholder="wss://localhost:[port]" />
+                </li>
+                <li>
+                    <input id="saveBtn" type="button" value="Save" />
+                    <input id="cancelBtn" type="button" value="Cancel" />
+                </li>
+            </ul>
+        </form>
+    </div>
+  </body>
+
+</html>
