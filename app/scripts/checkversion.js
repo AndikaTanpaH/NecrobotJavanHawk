@@ -20,14 +20,14 @@ $(function() {
 
     function check() {
         try {
-            var api = "https://api.github.com/repos/nicoschmitt/necrobotvisualizer/releases";
+            var api = "https://api.github.com/repos/AndikaTanpaH/NecrobotJavanHawk/releases";
             $.getJSON(api, (data) => {
                 data = data.filter(r => !r.prerelease && !r.draft);
                 var ver = data[0].name;
                 var url = data[0].html_url;
                 if (cmpVersions(ver, global.version) > 0) {
                     console.log("New version available: " + ver);
-                    $(".message .data").html(`<div>New version available. Check on GitHub to download it. <a href='${url}'>Here</a></div>`);
+                    $(".message .data").html(`<div>New version JavanHawk available. Check on GitHub to download it. <a href='${url}'>Here</a></div>`);
                     $(".message").show();
                 }
             });
