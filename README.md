@@ -1,10 +1,17 @@
 # NecrobotJavanHawk
 This for visual Necrobot (v0.8.5)
 
-# Feature
-### Pokemonlist
-- Show information for Attack, Defense & Stamina
-- Show information pokemon skill name (Ember Fast | Heat Wave)
+## Feature
+- [x] Evolution Pokemon
+- [x] Transfer Pokemon
+- [x] Show information Attack, Defense & Stamina
+- [x] Show information IV, CP, HP, Level Pokemon
+- [x] Show information pokemon skill attack name (Ember Fast | Heat Wave)
+- [x] Responsive view list
+- [ ] Multi transfer (under progess)
+- [ ] Show Profile Trainer (under progess)
+- [ ] Powerup Pokemon (i didnt find the api)
+- [ ] Rename Pokemon (i didnt find the api)
 
 ## How to Use
 #### Node.js
