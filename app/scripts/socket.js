@@ -43,6 +43,14 @@ function listenToWebSocket() {
         } else if (command.indexOf("ProfileEvent") >= 0) {
             // once connected, ask for pokemon settings
             var username = msg.Profile.PlayerData.Username;
+            console.log(msg);
+            $('.nameMe label').html(username);
+            var startdus= msg.Profile.PlayerData.Currencies.$values[1].Amount;
+            $('.starval').html(startdus);
+            var coinval= msg.Profile.PlayerData.Currencies.$values[0].Amount;
+            $('.coinval').html(coinval);
+            var team = msg.Profile.PlayerData.Team;
+            $('.teamMe').html('<img width="80" src="./assets/img/'+team+'.png" />');
             global.username = username;
             global.storage = {
                 pokemon: msg.Profile.PlayerData.MaxPokemonStorage,
