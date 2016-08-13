@@ -57,6 +57,7 @@
             if(!$(this).hasClass("active")) {
                 $(this).toggleClass("active").siblings().removeClass("active");
             }
+            $(".data").scrollTop(0);
         });
 
         $(".inventory .close").click(function() {
