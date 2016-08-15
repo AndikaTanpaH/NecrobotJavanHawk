@@ -3,6 +3,8 @@ This for visual Necrobot (v0.8.6) if any update from there i'll update this page
 
 Hmmm hell yaaah, Necrobot its shutdown.. But the JavanHawk still can run (If you know what i means, just back with a time machine)
 
+I just test with Necrobot Fork (v0.8.8) worked.. The websocket still there, maybe need improvment for Level Up Pokemon.
+
 ## Feature
 - [x] Can Evolution & Transfer Pokemon
 - [x] Sorted pokemon by IV, CP, Name, HP & ID Pokedex
