@@ -8,15 +8,16 @@ Hmmm hell yaaah, Necrobot its shutdown.. But the JavanHawk still can run (If you
 - [x] Sorted pokemon by IV, CP, Name, HP & ID Pokedex
 - [x] Show information Attack, Defense & Stamina
 - [x] Show information IV, CP, HP, Level Pokemon
+- [x] Show Pokemon type
 - [x] Show information pokemon skill attack name (Ember Fast | Heat Wave)
 - [x] Responsive view list
 - [x] Show incubator eggs
 - [x] Show inventory items
 - [ ] Bulk transfer (under progess)
-- [ ] Show Profile Trainer (under progess)
-- [ ] Powerup Pokemon (i didnt find the api)
+- [x] Show Profile Trainer
+- [ ] Powerup Pokemon (i didnt find the api, i'm trying create it but error need help)
 - [ ] Rename Pokemon (i didnt find the api)
-- [ ] Use gmaps api (long planning)
+- [ ] Use gmaps api (long long planning)
 
 ## How to Use
 Download the [Latest Release NecrobotJavanHawk](https://github.com/AndikaTanpaH/NecrobotJavanHawk/releases)
