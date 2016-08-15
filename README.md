@@ -46,7 +46,7 @@ Run from source code:
 In the NecrobotJavanHawk, the url on the config page should match the port you configured on bot side (both have the same default).
 
 ## Run it!!
-![Screenshot](https://github.com/AndikaTanpaH/NecrobotJavanHawk/blob/master/screenshot/viewpokemon.jpg?raw=true) 
+![Screenshot](https://github.com/AndikaTanpaH/NecrobotJavanHawk/blob/master/screenshot/viewpokemon-v0315.jpg?raw=true) 
 
 
 ### Credit
