@@ -1,9 +1,16 @@
-# NecrobotJavanHawk v0.3.15  ![Screenshot](https://github.com/AndikaTanpaH/NecrobotJavanHawk/blob/master/build/javanhawkcolor.png?raw=true) 
+# NecrobotJavanHawk v0.8.17  ![Screenshot](https://github.com/AndikaTanpaH/NecrobotJavanHawk/blob/master/build/javanhawkcolor.png?raw=true) 
+Happy Indepedence Day for my country (Indonesia 17 August 2016)
+
 This for visual ~~Necrobot (v0.8.6)~~ Necrobot Forked (v0.9.0) if any update from there i'll update this page. Don't forget to [create issue](https://github.com/AndikaTanpaH/NecrobotJavanHawk/issues) if you found any bug or feature request to improve this JavanHawk. I hope you happy at all :D
 
 Hmmm hell yaaah, Necrobot its shutdown.. But the JavanHawk still can run (If you know what i means, just back with a time machine)
 
 I just test with Necrobot Forked (v0.8.8) worked.. The websocket still there, maybe need improvment for Level Up Pokemon.
+
+## Donation
+You like JavanHwak? Feel free to buy Me a Coffe, by using Bitcoin `1M188dkAz1rXy8pufvGyuEJm9gHN98wh3V`
+
+Big thanks for your Donation, it will support my creativity and time for improved The Javan Hawk.
 
 ## Feature
 - [x] Can Evolution & Transfer Pokemon
@@ -24,13 +31,15 @@ I just test with Necrobot Forked (v0.8.8) worked.. The websocket still there, ma
 - [x] Responsive view list (not working for small display ex: mobile phone under 720px)
 - [x] Show incubator eggs
 - [x] Show inventory items
-- [ ] Powerup Pokemon (under progess -> fixing litle bug)
-- [ ] Themes management
+- [x] Powerup Pokemon**
+- [x] Themes management
 - [ ] Show Pokemon informartion in Gym
-- [ ] Rename Pokemon (under progess -> i'll trying to create the api)
+- [ ] Rename Pokemon** (under progess -> i'll trying to create the api)
 - [ ] Set Pokemon to Favorite (under progess)
 - [ ] Bulk transfer (under progess)
 - [ ] Use gmaps api (long long planning a head)
+
+**Need a custom Necrobot, I'm not share here, please buy Me a Coffe and I share it for You.
 
 ## How to Use
 Download the [Latest Release NecrobotJavanHawk](https://github.com/AndikaTanpaH/NecrobotJavanHawk/releases)
