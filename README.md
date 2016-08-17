@@ -1,9 +1,9 @@
 # NecrobotJavanHawk v0.3.15  ![Screenshot](https://github.com/AndikaTanpaH/NecrobotJavanHawk/blob/master/build/javanhawkcolor.png?raw=true) 
-This for visual ~~Necrobot (v0.8.6)~~ Necrobot Fork (v0.8.8) if any update from there i'll update this page. Don't forget to [create issue](https://github.com/AndikaTanpaH/NecrobotJavanHawk/issues) if you found any bug or feature request to improve this JavanHawk. I hope you happy at all :D
+This for visual ~~Necrobot (v0.8.6)~~ Necrobot Forked (v0.9.0) if any update from there i'll update this page. Don't forget to [create issue](https://github.com/AndikaTanpaH/NecrobotJavanHawk/issues) if you found any bug or feature request to improve this JavanHawk. I hope you happy at all :D
 
 Hmmm hell yaaah, Necrobot its shutdown.. But the JavanHawk still can run (If you know what i means, just back with a time machine)
 
-I just test with Necrobot Fork (v0.8.8) worked.. The websocket still there, maybe need improvment for Level Up Pokemon.
+I just test with Necrobot Forked (v0.8.8) worked.. The websocket still there, maybe need improvment for Level Up Pokemon.
 
 ## Feature
 - [x] Can Evolution & Transfer Pokemon
@@ -25,11 +25,12 @@ I just test with Necrobot Fork (v0.8.8) worked.. The websocket still there, mayb
 - [x] Show incubator eggs
 - [x] Show inventory items
 - [ ] Powerup Pokemon (under progess -> fixing litle bug)
-- [ ] Bulk transfer (under progess)
-- [ ] Rename Pokemon (under progess -> i'll trying to create the api)
-- [ ] Use gmaps api (long long planning a head)
 - [ ] Themes management
 - [ ] Show Pokemon informartion in Gym
+- [ ] Rename Pokemon (under progess -> i'll trying to create the api)
+- [ ] Set Pokemon to Favorite (under progess)
+- [ ] Bulk transfer (under progess)
+- [ ] Use gmaps api (long long planning a head)
 
 ## How to Use
 Download the [Latest Release NecrobotJavanHawk](https://github.com/AndikaTanpaH/NecrobotJavanHawk/releases)
