@@ -1,6 +1,7 @@
 # NecrobotJavanHawk v0.8.17  ![Screenshot](https://github.com/AndikaTanpaH/NecrobotJavanHawk/blob/master/build/javanhawkcolor.png?raw=true) 
 Happy Indepedence Day for my country (Indonesia 17 August 2016)
 
+![Screenshot](https://github.com/AndikaTanpaH/NecrobotJavanHawk/blob/master/screenshot/viewpokemon-v0817-blue.jpg?raw=true) 
 This for visual ~~Necrobot (v0.8.6)~~ Necrobot Forked (v0.9.0) if any update from there i'll update this page. Don't forget to [create issue](https://github.com/AndikaTanpaH/NecrobotJavanHawk/issues) if you found any bug or feature request to improve this JavanHawk. I hope you happy at all :D
 
 Hmmm hell yaaah, Necrobot its shutdown.. But the JavanHawk still can run (If you know what i means, just back with a time machine)
@@ -69,6 +70,7 @@ Run from source code:
 In the NecrobotJavanHawk, the url on the config page should match the port you configured on bot side (both have the same default).
 
 ## Run it!!
+![Screenshot](https://github.com/AndikaTanpaH/NecrobotJavanHawk/blob/master/screenshot/viewpokemon-v0817-pink.jpg?raw=true) 
 ![Screenshot](https://github.com/AndikaTanpaH/NecrobotJavanHawk/blob/master/screenshot/viewpokemon-v0315.jpg?raw=true) 
 
 
