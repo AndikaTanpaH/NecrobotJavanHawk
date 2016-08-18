@@ -9,7 +9,7 @@ Hmmm hell yaaah, Necrobot its shutdown.. But the JavanHawk still can run (If you
 I just test with Necrobot Forked (v0.8.8) worked.. The websocket still there, maybe need improvment for Level Up Pokemon.
 
 ## Donation
-You like JavanHwak? Feel free to buy Me a Coffe, by using Bitcoin `1M188dkAz1rXy8pufvGyuEJm9gHN98wh3V`
+You like JavanHawk? Feel free to buy Me a Coffe, by using Bitcoin `1M188dkAz1rXy8pufvGyuEJm9gHN98wh3V`
 
 Big thanks for your Donation, it will support my creativity and time for improved The Javan Hawk.
 
@@ -75,7 +75,7 @@ In the NecrobotJavanHawk, the url on the config page should match the port you c
 
 
 ### Credit
-Based on [necrobotvisualizer](https://github.com/nicoschmitt/necrobotvisualizer)
+Based on necrobotvisualizer - nicoschmitt
 
 
 
