@@ -1,25 +1,21 @@
 (function() {
-    var allPokemon = null;
-    var allItems = null;
-
     function load(locale) {
         locale = locale || "en";
-        $.ajax({
-            url: `assets/json/pokemon.${locale}.json`,
-            async: false,
-            success: (result) => { allPokemon = (typeof result == "string" ? JSON.parse(result) : result); }
-        });
-        $.ajax({
-            url: `assets/json/inventory.${locale}.json`,
-            async: false,
-            success: (result) => { allItems = (typeof result == "string" ? JSON.parse(result) : result); }
-        });
+        var script = document.createElement("script");
+        script.type = "text/javascript";
+        script.src = `assets/json/pokemon.${locale}.js`; 
+        document.getElementsByTagName("head")[0].appendChild(script);
+
+        var script = document.createElement("script");
+        script.type = "text/javascript";
+        script.src = `assets/json/inventory.${locale}.js`; 
+        document.getElementsByTagName("head")[0].appendChild(script);
     }
 
     var service = {};
 
     service.init = function(locale) {
-        if (allItems == null) load(locale);
+        load(locale);
     }
 
     service.getPokemonName = function(id) {
@@ -29,6 +25,6 @@
     service.getItemName = function(id) {
         return allItems[id];
     }
-
+    
     window.inventoryService = service;
 }());
