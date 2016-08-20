@@ -1,8 +1,8 @@
-# NecrobotJavanHawk v0.8.17  ![Screenshot](https://github.com/AndikaTanpaH/NecrobotJavanHawk/blob/master/build/javanhawkcolor.png?raw=true) 
+# NecrobotJavanHawk v0.8.20  ![Screenshot](https://github.com/AndikaTanpaH/NecrobotJavanHawk/blob/master/build/javanhawkcolor.png?raw=true) 
 Happy Indepedence Day for my country (Indonesia 17 August 2016)
 
-![Screenshot](https://github.com/AndikaTanpaH/NecrobotJavanHawk/blob/master/screenshot/viewpokemon-v0817-blue.jpg?raw=true) 
-This for visual ~~Necrobot (v0.8.6)~~ Necrobot Forked (v0.9.0) if any update from there i'll update this page. Don't forget to [create issue](https://github.com/AndikaTanpaH/NecrobotJavanHawk/issues) if you found any bug or feature request to improve this JavanHawk. I hope you happy at all :D
+![Screenshot](https://github.com/AndikaTanpaH/NecrobotJavanHawk/blob/master/screenshot/viewpokemon-v0820.jpg?raw=true) 
+This for visual ~~Necrobot (v0.8.6)~~ Necrobot Forked (v0.9.3) & PokeMobBot (v2.0.3ish) if any update from there i'll update this page. Don't forget to [create issue](https://github.com/AndikaTanpaH/NecrobotJavanHawk/issues) if you found any bug or feature request to improve this JavanHawk. I hope you happy at all :D
 
 Hmmm hell yaaah, Necrobot its shutdown.. But the JavanHawk still can run (If you know what i means, just back with a time machine)
 
@@ -34,22 +34,26 @@ Big thanks for your Donation, it will support my creativity and time for improve
 - [x] Show inventory items
 - [x] Powerup Pokemon**
 - [x] Themes management
+- [x] Bulk transfer pokemon (CTRL + Click)
 - [ ] Show Pokemon informartion in Gym
 - [ ] Rename Pokemon** (under progess -> i'll trying to create the api)
 - [ ] Set Pokemon to Favorite (under progess)
-- [ ] Bulk transfer (under progess)
 - [ ] Use gmaps api (long long planning a head)
 
-**Need a custom Necrobot, I'm not share here, please buy Me a Coffe and I share it for You.
+**Need a custom Necrobot/PokeMobBot, I'm not share here, please buy Me a Coffe and I share it for You.
 
 ## How to Use
-Download the [Latest Release NecrobotJavanHawk](https://github.com/AndikaTanpaH/NecrobotJavanHawk/releases)
+Download the [Latest Release JavanHawk](https://github.com/AndikaTanpaH/NecrobotJavanHawk/releases)
 
-If you not a developer just download the win-64bit.zip, extract it and run NecrobotJavanHawk.exe
+If you not a developer just download the InstallerJavanHawk-vX.X.X.zip, extract it and run NecrobotJavanHawk.exe
+
+For update download UpdateOnlyJavanHawk-vX.X.X.zip, extract to main directory JavanHawk and run UpdaterJavanHawkXXX.exe
 
 Make sure to enable UseWebsocket on necrobot config.json
 ```"UseWebsocket": true,
 "WebSocketPort": 14251,```
+
+Now you can run from source without simple web server, just go folder /app/index.html and open it to your browser (I just maintenance webkit browser like chrome family)
 
 Run from source code:
 ####A. Node.js
@@ -70,6 +74,7 @@ Run from source code:
 In the NecrobotJavanHawk, the url on the config page should match the port you configured on bot side (both have the same default).
 
 ## Run it!!
+![Screenshot](https://github.com/AndikaTanpaH/NecrobotJavanHawk/blob/master/screenshot/viewpokemon-v0817-blue.jpg?raw=true) 
 ![Screenshot](https://github.com/AndikaTanpaH/NecrobotJavanHawk/blob/master/screenshot/viewpokemon-v0817-pink.jpg?raw=true) 
 ![Screenshot](https://github.com/AndikaTanpaH/NecrobotJavanHawk/blob/master/screenshot/viewpokemon-v0315.jpg?raw=true) 
 
