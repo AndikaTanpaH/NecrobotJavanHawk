@@ -1,4 +1,4 @@
-var allItems=JSON.parse(`{{
+var allItems=JSON.parse(`{
     "0": "Unknown",
     "1": "Poke ball",
     "2": "Great Ball",
@@ -24,8 +24,8 @@ var allItems=JSON.parse(`{{
     "703": "Weparberry",
     "705": "Pinapberry",
     "801": "Kamera",
-    "901": "Incubator ∞",
-    "902": "Incubator",
+    "901": "Penetas ∞",
+    "902": "Penetas",
     "1001": "Penyimpanan Pokemon Upgrade",
     "1002": "Penyimpanan Item Upgrade"
 }`);
