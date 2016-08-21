@@ -54,8 +54,8 @@ If you not a developer just download the InstallerJavanHawk-vX.X.X.zip, extract 
 For update download UpdateOnlyJavanHawk-vX.X.X.zip, extract to main directory JavanHawk and run UpdaterJavanHawkXXX.exe
 
 Make sure to enable UseWebsocket on necrobot config.json
-```"UseWebsocket": true,
-"WebSocketPort": 14251,```
+> "UseWebsocket": true,
+> "WebSocketPort": 14251,
 
 
 ## Run it!!
