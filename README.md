@@ -22,18 +22,18 @@ Big thanks for your Donation, it will support my creativity and time for improve
   - Candy / Candy need to Evolve
   - Pokemon type (Dragon | Flying)
   - Pokemon skill attack name (Ember Fast | Heat Wave)
-  - If favourite from native apps
+  - If favorite from native apps
 - [x] Show Profile Trainer
   - Total Coin
   - Stardust (not auto update)
   - Experience (percentage auto update)
-  - Your team
+  - Your team joined
   - Pokemon Storage (auto update)
 - [x] Responsive view list (not working for small display ex: mobile phone under 720px)
 - [x] Show incubator eggs
 - [x] Show inventory items
 - [x] Powerup Pokemon^^
-- [x] Themes management
+- [x] Themes management (three theme at now)
 - [x] Bulk transfer pokemon (CTRL + Click)
 - [ ] Bulk evolved pokemon (CTRL + Click) ^
 - [ ] Sorted pokemon by Level ^
@@ -55,8 +55,10 @@ For update download UpdateOnlyJavanHawk-vX.X.X.zip, extract to main directory Ja
 
 Make sure to enable UseWebsocket on necrobot config.json
 > "UseWebsocket": true,
+>
 > "WebSocketPort": 14251,
 
+For more info just hit the [Wiki Page](https://github.com/AndikaTanpaH/NecrobotJavanHawk/wiki)
 
 ## Run it!!
 ![Screenshot](https://github.com/AndikaTanpaH/NecrobotJavanHawk/blob/master/screenshot/viewpokemon-v0817-blue.jpg?raw=true) 
