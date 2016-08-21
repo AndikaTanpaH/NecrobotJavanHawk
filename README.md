@@ -32,18 +32,19 @@ Big thanks for your Donation, it will support my creativity and time for improve
 - [x] Responsive view list (not working for small display ex: mobile phone under 720px)
 - [x] Show incubator eggs
 - [x] Show inventory items
-- [x] Powerup Pokemon**
+- [x] Powerup Pokemon^^
 - [x] Themes management
 - [x] Bulk transfer pokemon (CTRL + Click)
-- [ ] Bulk evolved pokemon (CTRL + Click) *
-- [ ] Sorted pokemon by Level *
+- [ ] Bulk evolved pokemon (CTRL + Click) ^
+- [ ] Sorted pokemon by Level ^
 - [ ] Show Pokemon informartion in Gym
 - [ ] Rename Pokemon** (under progess -> i'll trying to create the api)
 - [ ] Set Pokemon to Favorite (under progess)
 - [ ] Use gmaps api (long long planning a head)
 
-*Next update
-**Need a custom Necrobot/PokeMobBot, I'm not share here, please buy Me a Coffe and I share it for You.
+^Next update
+
+^^Need a custom Necrobot/PokeMobBot, I'm not share here, please buy Me a Coffe and I share it for You.
 
 ## How to Use
 Download the [Latest Release JavanHawk](https://github.com/AndikaTanpaH/NecrobotJavanHawk/releases)
@@ -56,25 +57,6 @@ Make sure to enable UseWebsocket on necrobot config.json
 ```"UseWebsocket": true,
 "WebSocketPort": 14251,```
 
-Now you can run from source without simple web server, just go folder /app/index.html and open it to your browser (I just maintenance webkit browser like chrome family)
-
-Run from source code:
-####A. Node.js
-1. Install [Node.js](https://nodejs.org/en/download/)
-2. Start the node command line
-3. Navigate to your NecrobotJavanHawk folder
-4. To install enter: ```npm install```
-5. To start enter: ```npm start```
-6. Will launch electron application
-
-####B. Python
-1. Install [Python](https://www.python.org/downloads/)
-2. Start command line
-3. Navigate to your NecrobotJavanHawk/app folder
-4. Type ```python -m SimpleHTTPServer 8000``` 8000 = Port
-5. Open Browser and type http://localhost:8000
-
-In the NecrobotJavanHawk, the url on the config page should match the port you configured on bot side (both have the same default).
 
 ## Run it!!
 ![Screenshot](https://github.com/AndikaTanpaH/NecrobotJavanHawk/blob/master/screenshot/viewpokemon-v0817-blue.jpg?raw=true) 
