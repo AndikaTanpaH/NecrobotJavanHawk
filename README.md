@@ -35,11 +35,14 @@ Big thanks for your Donation, it will support my creativity and time for improve
 - [x] Powerup Pokemon**
 - [x] Themes management
 - [x] Bulk transfer pokemon (CTRL + Click)
+- [ ] Bulk evolved pokemon (CTRL + Click) *
+- [ ] Sorted pokemon by Level *
 - [ ] Show Pokemon informartion in Gym
 - [ ] Rename Pokemon** (under progess -> i'll trying to create the api)
 - [ ] Set Pokemon to Favorite (under progess)
 - [ ] Use gmaps api (long long planning a head)
 
+*Next update
 **Need a custom Necrobot/PokeMobBot, I'm not share here, please buy Me a Coffe and I share it for You.
 
 ## How to Use
