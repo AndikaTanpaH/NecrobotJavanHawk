@@ -141,8 +141,8 @@ Map.prototype.addToPath = function(pt) {
     this.steps.push(latLng);
     if (this.initPath()) {
 
-        if(this.realSteps.length > 150)
-            this.realSteps.splice(0,1);
+        if(this.steps.length > 150)
+            this.steps.splice(0,1);
 
         this.path.setLatLngs(this.steps);
         this.me.setLatLng(latLng).getPopup().setContent(`${pt.lat},${pt.lng}`);
