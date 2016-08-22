@@ -25,10 +25,10 @@ function listenToWebSocket() {
             global.connected = false;
         }
     };
-    ws.onopen = () => { 
+    ws.onopen = () => {
         console.log("Connected to Bot");
         global.connected = true;
-        $(".loading").text("Waiting to get GPS coordinates from Bot..."); 
+        $(".loading").text("Waiting to get GPS coordinates from Bot...");
     };
     ws.onmessage = function (evt) {
         var msg = JSON.parse(evt.data);
@@ -60,12 +60,23 @@ function listenToWebSocket() {
             ws.send(JSON.stringify({ Command: "GetPokemonSettings" }));
         } else if (command.indexOf("UpdatePositionEvent") >= 0) {
             if (!global.snipping) {
-                global.map.addToPath({ 
-                    lat: msg.Latitude, 
-                    lng: msg.Longitude 
+                global.map.addToPath({
+                    lat: msg.Latitude,
+                    lng: msg.Longitude
                 });
             }
-        } else if (command.indexOf("PokemonCaptureEvent") >= 0) {
+        }else if ( (command.indexOf("UnaccurateLocation") >= 0)) {
+            if (!global.snipping) {
+                global.map.addToRealPath({
+                    lat: msg.Latitude,
+                    lng: msg.Longitude
+                });
+            }
+        }
+        else if ( (command.indexOf("NewPathToDestinyEvent") >= 0)) {
+                global.map.generateRouteToDestiny(msg.GoogleData);
+        }
+        else if (command.indexOf("PokemonCaptureEvent") >= 0) {
             if (msg.Status = 1 && msg.Exp > 0) {
                 var pkm = {
                     id: msg.Id,
@@ -94,7 +105,8 @@ function listenToWebSocket() {
                 return {
                     id: f.Id,
                     lat: f.Latitude,
-                    lng: f.Longitude
+                    lng: f.Longitude,
+                    name: f.Name
                 }
             });
             global.map.addPokestops(forts);
@@ -166,9 +178,14 @@ function listenToWebSocket() {
                 name: inventory.getPokemonName(msg.Id)
             };
             pokemonToast(pkm, { title: "A Pokemon Evolved" });
-        } else if (command.indexOf("TransferPokemonEvent") >= 0) {
-            // nothing
-        } else if (command.indexOf("FortTargetEvent") >= 0) {
+        }
+        else if (command.indexOf("FortTargetEvent") >= 0) {
+            global.map.updatePokestop(msg);
+        }else if (command.indexOf("HumanWalkingEvent") >= 0) {
+            var spd = msg.CurrentWalkingSpeed.toFixed(2);
+            $('.spdval').html(spd);
+        }
+        else if (command.indexOf("TransferPokemonEvent") >= 0) {
             // nothing
         } else if (command.indexOf("NoticeEvent") >= 0) {
             // nothing

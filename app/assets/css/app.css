@@ -287,6 +287,20 @@ body, html, .content {
   right: 10px;
 }
 
-.showMe{position: absolute;right: 30px;bottom: 80px;height: 60px;z-index: 1001;display: flex;text-shadow:0px 1px 1px #333;color: #FFF;font-size: 16px;}
+.showMe {
+  position: absolute;
+  right: 30px;
+  bottom: 60px;
+  height: 120px;
+  z-index: 1001;
+  display: flex;
+  text-shadow:0px 1px 1px #333;
+  color: #FFF;
+  font-size: 16px;
+  background:rgba(0,0,0,0.5);
+  border-radius: 10px;
+  margin: 3px;
+  padding: 3px;
+}
 .showMe label{font-size: 160%;}
 .teamMe{padding: 0 5px;}
