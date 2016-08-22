@@ -200,7 +200,7 @@ Map.prototype.addPokestops = function(forts) {
 
 Map.prototype.updatePokestop = function(fort) {
 
-        var ps = this.availablePokestops.find(ps => ps.id == pt.id);
+        var ps = this.availablePokestops.find(ps => ps.id == fort.id);
         if (ps != null) {
             var icon = L.icon({ iconUrl: `./assets/img/pokestop_available.png`, iconSize: [30, 50]});
             pt.marker = L.marker([pt.lat, pt.lng], {icon: icon, zIndexOffset: 50}).addTo(this.layerPokestops).bindPopup(pt.Name);
