@@ -1,4 +1,4 @@
-# NecrobotJavanHawk v0.8.20  ![Screenshot](https://github.com/AndikaTanpaH/NecrobotJavanHawk/blob/master/build/javanhawkcolor.png?raw=true) 
+# JavanHawk v0.8.23  ![Screenshot](https://github.com/AndikaTanpaH/NecrobotJavanHawk/blob/master/build/javanhawkcolor.png?raw=true) 
 Happy Indepedence Day for my country (Indonesia 17 August 2016)
 
 ![Screenshot](https://github.com/AndikaTanpaH/NecrobotJavanHawk/blob/master/screenshot/viewpokemon-v0820.jpg?raw=true) 
@@ -15,7 +15,7 @@ Big thanks for your Donation, it will support my creativity and time for improve
 
 ## Feature
 - [x] Can Evolution & Transfer Pokemon
-- [x] Sorted pokemon by IV, CP, Name, HP & ID Pokedex
+- [x] Sorted pokemon by IV, CP, Name, HP, Level & ID Pokedex
 - [x] Show Pokemon informartion
   - IV, CP, HP, Level Pokemon
   - Attack, Defense & Stamina
@@ -35,8 +35,7 @@ Big thanks for your Donation, it will support my creativity and time for improve
 - [x] Powerup Pokemon^^
 - [x] Themes management (three theme at now)
 - [x] Bulk transfer pokemon (CTRL + Click)
-- [ ] Bulk evolved pokemon (CTRL + Click) ^
-- [ ] Sorted pokemon by Level ^
+- [x] Bulk evolved pokemon (CTRL + Click)
 - [ ] Show Pokemon informartion in Gym
 - [ ] Rename Pokemon** (under progess -> i'll trying to create the api)
 - [ ] Set Pokemon to Favorite (under progess)
