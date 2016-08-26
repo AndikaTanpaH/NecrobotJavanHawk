@@ -1,4 +1,4 @@
-# JavanHawk v0.9.23  ![Screenshot](https://github.com/AndikaTanpaH/NecrobotJavanHawk/blob/master/build/javanhawkcolor.png?raw=true) 
+# JavanHawk v0.9.26  ![Screenshot](https://github.com/AndikaTanpaH/NecrobotJavanHawk/blob/master/build/javanhawkcolor.png?raw=true) 
 Happy Indepedence Day for my country (Indonesia 17 August 2016)
 
 ![Screenshot](https://github.com/AndikaTanpaH/NecrobotJavanHawk/blob/master/screenshot/viewpokemon-v0923.jpg?raw=true) 
@@ -39,8 +39,9 @@ Big thanks for your Donation, it will support my creativity and time for improve
 - [x] Bulk transfer pokemon (CTRL + Click)
 - [x] Bulk evolved pokemon (CTRL + Click)
 - [x] Colorfull IV value, need this for bulk transfer / elvoved
+- [x] Can delete Item (Click the item from inventory list)
 - [ ] Show Pokemon informartion in Gym
-- [ ] Rename Pokemon** (under progess -> i'll trying to create the api)
+- [ ] Rename Pokemon** (its can be banned?)
 - [ ] Set Pokemon to Favorite (under progess)
 - [ ] Use gmaps api (long long planning a head)
 
