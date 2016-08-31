@@ -32,15 +32,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [214, 221]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [90, 59, 118]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.6667, 0.6667, 1.6667, 1.8333, 0, 2.1667, 1.4, 1.466667]
 	},
 	"EvolutionIds": [2],
@@ -88,15 +88,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [215, 214]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [90, 116, 118]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.6667, 0.6667, 1.6667, 2.1667, 0, 2, 1.6667, 1.733333]
 	},
 	"EvolutionIds": [3],
@@ -144,15 +144,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [215, 214]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [90, 47, 116]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.4667, 0.6667, 1.6667, 1.8333, 0, 2.1333, 2, 2.066667]
 	},
 	"EvolutionIds": [],
@@ -200,15 +200,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [209, 220]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [101, 102, 24]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.1333, 0.6667, 1.6667, 1.8333, 0, 2.1333, 1.1667, 1.333333]
 	},
 	"EvolutionIds": [5],
@@ -256,15 +256,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [209, 220]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [115, 102, 24]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.8667, 0.6667, 1.8333, 1.5, 6.666667, 2.3333, 2, 2.533334]
 	},
 	"EvolutionIds": [6],
@@ -312,15 +312,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [209, 210]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [103, 83, 24]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.2, 0.6667, 1.6667, 0.8667, 6.666667, 2, 1.6, 2]
 	},
 	"EvolutionIds": [],
@@ -368,15 +368,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [237, 221]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [57, 58, 105]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.7333, 0.6667, 1.6667, 1.5, 0, 2.1667, 1, 1.333333]
 	},
 	"EvolutionIds": [8],
@@ -424,15 +424,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [230, 202]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [57, 39, 107]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2, 0.6667, 1.6667, 1.8333, 0, 1.8, 1.0667, 1.133333]
 	},
 	"EvolutionIds": [9],
@@ -480,15 +480,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [230, 202]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [36, 39, 107]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.1333, 0.6667, 1.6667, 1.8333, 0, 2, 2.6667, 1.333333]
 	},
 	"EvolutionIds": [],
@@ -536,15 +536,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [201, 221]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [133]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [0, 0.6667, 1.6667, 1.6667, 0, 1.8333, 1.6667, 0]
 	},
 	"EvolutionIds": [11],
@@ -592,15 +592,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [201, 221]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [133]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.3333, 0.6667, 1.8333, 1.6667, 0, 1.5667, 2, 0]
 	},
 	"EvolutionIds": [12],
@@ -648,15 +648,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [201, 235]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [49, 108, 99]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2, 0.6667, 1.7333, 0.6667, 0, 2.4667, 2.1333, 0]
 	},
 	"EvolutionIds": [],
@@ -704,15 +704,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [201, 236]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [133]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [0, 0.6667, 1.6667, 1.8333, 0, 1.6667, 2, 0]
 	},
 	"EvolutionIds": [14],
@@ -760,15 +760,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [201, 236]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [133]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [0, 0.6667, 0, 1.6667, 0, 2, 2.5, 0]
 	},
 	"EvolutionIds": [15],
@@ -816,15 +816,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [201, 224]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [90, 45, 100]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.6667, 0.6667, 1.6667, 0.6667, 0.2, 1.8, 1.3333, 0]
 	},
 	"EvolutionIds": [],
@@ -872,15 +872,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [219, 221]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [80, 45, 121]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.6667, 0.6667, 1.6667, 1.8333, 0, 1.8333, 0.8, 1.333333]
 	},
 	"EvolutionIds": [17],
@@ -928,15 +928,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [210, 239]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [80, 45, 121]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.6667, 0.6667, 2, 0.8, 0, 2, 0.6667, 0]
 	},
 	"EvolutionIds": [18],
@@ -984,15 +984,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [210, 239]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [122, 45, 121]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.0667, 0.6667, 1.6667, 0.6667, 0, 2, 1.8, 0]
 	},
 	"EvolutionIds": [],
@@ -1040,15 +1040,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [221, 219]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [26, 129, 131]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.9, 0.6667, 1.8, 1.7667, 0, 2.4, 0.8667, 0]
 	},
 	"EvolutionIds": [20],
@@ -1096,15 +1096,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [202, 219]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [26, 129, 14]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.6667, 0.6667, 1.7333, 1.6667, 0, 2, 2.0667, 0]
 	},
 	"EvolutionIds": [],
@@ -1152,15 +1152,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [211, 219]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [45, 38, 80]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.5333, 0.6667, 1.6667, 1.8333, 0, 2.3333, 0.8, 0]
 	},
 	"EvolutionIds": [22],
@@ -1208,15 +1208,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [211, 239]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [45, 46, 80]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.6667, 0.6667, 1.6667, 0.8333, 0, 2.3333, 1.6667, 0]
 	},
 	"EvolutionIds": [],
@@ -1264,15 +1264,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [236, 225]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [13, 90, 92]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.7333, 0.6667, 1.6667, 1.8333, 0, 2.2, 1.6, 0]
 	},
 	"EvolutionIds": [24],
@@ -1320,15 +1320,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [202, 225]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [16, 91, 92]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.6667, 0.6667, 1.6667, 1.5, 0, 2.6667, 2.6667, 0]
 	},
 	"EvolutionIds": [],
@@ -1376,15 +1376,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [205, 219]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [35, 79, 78]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.8333, 0.6667, 1.6, 1.5667, 0, 1.8, 1.1333, 1.066667]
 	},
 	"EvolutionIds": [26],
@@ -1432,15 +1432,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [205, 206]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [123, 77, 78]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.2333, 0.6667, 2, 2, 0, 2.6667, 1, 1.133333]
 	},
 	"EvolutionIds": [],
@@ -1488,15 +1488,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [220, 216]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [26, 64, 63]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.8, 0.6667, 1.4667, 1.6667, 0, 2.6667, 1, 0]
 	},
 	"EvolutionIds": [28],
@@ -1544,15 +1544,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [228, 216]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [31, 63, 95]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.7333, 0.6667, 1.6667, 1.6667, 0, 2, 1.6, 0]
 	},
 	"EvolutionIds": [],
@@ -1600,15 +1600,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [202, 236]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [50, 131, 90]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.3333, 0.6667, 1.6667, 1.8333, 0, 1.6667, 2.1333, 0]
 	},
 	"EvolutionIds": [30],
@@ -1656,15 +1656,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [202, 236]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [50, 26, 90]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.6667, 0.6667, 1.7667, 1.4667, 0, 2, 1.3333, 0]
 	},
 	"EvolutionIds": [31],
@@ -1712,15 +1712,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [224, 202]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [31, 91, 32]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.8333, 0.6667, 1.6667, 1.6667, 0, 2, 1.6667, 0]
 	},
 	"EvolutionIds": [],
@@ -1768,15 +1768,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [211, 236]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [126, 131, 90]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.8333, 0.6667, 1.6667, 1.6667, 0, 2, 1.6667, 0]
 	},
 	"EvolutionIds": [33],
@@ -1824,15 +1824,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [224, 236]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [126, 26, 90]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.8, 0.6667, 1.6667, 1.7333, 0, 1.6667, 1.6667, 0]
 	},
 	"EvolutionIds": [34],
@@ -1880,15 +1880,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [224, 200]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [31, 91, 22]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2, 0.6667, 2, 1.5, 0, 2.1667, 1.4, 0]
 	},
 	"EvolutionIds": [],
@@ -1936,15 +1936,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [222, 234]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [84, 131, 87]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2, 0.6667, 1.6667, 1.8333, 0, 2, 1.3333, 1.666667]
 	},
 	"EvolutionIds": [36],
@@ -1992,15 +1992,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [222, 234]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [86, 108, 87]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.3333, 0.6667, 1.6667, 1.8333, 0, 2.6667, 1.3333, 0]
 	},
 	"EvolutionIds": [],
@@ -2048,15 +2048,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [219, 209]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [131, 24, 101]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.6667, 0.6667, 1.6667, 1.6, 0, 2, 1.3333, 2.2]
 	},
 	"EvolutionIds": [38],
@@ -2104,15 +2104,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [238, 209]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [42, 24, 103]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.6667, 0.6667, 2, 2, 0, 2.1667, 2, 2]
 	},
 	"EvolutionIds": [],
@@ -2160,15 +2160,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [222, 238]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [84, 131, 88]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.6667, 0.6667, 1.6667, 3.6667, 0, 2.6667, 1.6667, 2]
 	},
 	"EvolutionIds": [40],
@@ -2216,15 +2216,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [222, 238]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [86, 14, 88]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.6667, 0.6667, 1.6333, 1.8333, 0, 1.8333, 2, 0]
 	},
 	"EvolutionIds": [],
@@ -2272,15 +2272,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [219, 202]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [50, 121, 90]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.3333, 0.6667, 1.3333, 0.6667, 0, 1.5, 1.3333, 0]
 	},
 	"EvolutionIds": [42],
@@ -2328,15 +2328,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [210, 202]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [50, 121, 69]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.5, 0.6667, 1.3333, 0.6667, 0, 2, 2, 0]
 	},
 	"EvolutionIds": [],
@@ -2384,15 +2384,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [215, 225]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [59, 90, 87]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.4667, 0.6667, 1.6667, 1.6667, 0, 2.5, 1.6667, 0]
 	},
 	"EvolutionIds": [44],
@@ -2440,15 +2440,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [215, 225]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [47, 90, 87]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.8333, 0.6667, 1.6667, 1.6667, 0, 1.6667, 1.2667, 0]
 	},
 	"EvolutionIds": [45],
@@ -2496,15 +2496,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [215, 225]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [47, 116, 87]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.1667, 0.6667, 1.6667, 1.5, 0, 2.1667, 0.9667, 0]
 	},
 	"EvolutionIds": [],
@@ -2552,15 +2552,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [220, 201]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [89, 100, 59]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.6667, 0.6667, 1.7667, 1.6333, 0, 2.3333, 1.3333, 1.533333]
 	},
 	"EvolutionIds": [47],
@@ -2608,15 +2608,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [201, 200]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [89, 100, 116]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.6667, 0.6667, 1.6667, 1.8333, 0, 1.6667, 2, 0]
 	},
 	"EvolutionIds": [],
@@ -2664,15 +2664,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [201, 235]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [50, 30, 99]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2, 0.6667, 1.6667, 2, 0, 2, 2, 0]
 	},
 	"EvolutionIds": [49],
@@ -2720,15 +2720,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [201, 235]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [50, 108, 49]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [0, 0.6, 1.6667, 0.6, 0, 2.1333, 1.6, 0]
 	},
 	"EvolutionIds": [],
@@ -2776,15 +2776,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [216, 220]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [26, 96, 63]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.4333, 0.6667, 2, 0.8667, 0, 2.1667, 1.3333, 1.333333]
 	},
 	"EvolutionIds": [51],
@@ -2832,15 +2832,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [203, 216]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [31, 96, 32]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.7333, 0.6667, 1.6667, 0.9, 0, 2.1333, 2, 0]
 	},
 	"EvolutionIds": [],
@@ -2888,15 +2888,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [220, 202]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [51, 16, 131]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2, 0.6667, 1.7333, 1.5, 0, 2, 1.4, 2]
 	},
 	"EvolutionIds": [53],
@@ -2944,15 +2944,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [220, 238]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [51, 65, 88]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2, 0.6667, 1.6667, 1.8333, 0, 1.6667, 1.6667, 0]
 	},
 	"EvolutionIds": [],
@@ -3000,15 +3000,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [230, 234]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [30, 58, 28]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.8333, 0.6667, 1.6667, 1.5, 0, 2.6, 1.6667, 0]
 	},
 	"EvolutionIds": [55],
@@ -3056,15 +3056,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [230, 235]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [108, 107, 39]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.6667, 0.6667, 1.6667, 1.6667, 0, 2, 1.6667, 0]
 	},
 	"EvolutionIds": [],
@@ -3112,15 +3112,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [208, 220]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [28, 56, 123]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.5, 0.6, 1.3333, 1.6333, 0, 1.9667, 0.9333, 0]
 	},
 	"EvolutionIds": [57],
@@ -3168,15 +3168,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [207, 208]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [28, 56, 51]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.3333, 0.6667, 1.5, 1.3333, 0, 1.6667, 1.3333, 0]
 	},
 	"EvolutionIds": [],
@@ -3224,15 +3224,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [209, 202]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [21, 131, 24]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.0333, 0.6667, 1.8, 1.5, 0, 2.2667, 0.8, 1.8]
 	},
 	"EvolutionIds": [59],
@@ -3280,15 +3280,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [240, 202]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [103, 24, 95]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.1333, 0.6667, 1.7333, 1.8333, 0, 1.8667, 1.7333, 2]
 	},
 	"EvolutionIds": [],
@@ -3336,15 +3336,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [237, 216]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [53, 96, 131]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.6667, 0.6667, 2, 1.5, 0, 1.6667, 1.5, 0]
 	},
 	"EvolutionIds": [61],
@@ -3392,15 +3392,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [237, 216]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [106, 96, 53]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.3333, 0.6667, 2.1667, 1.5, 0, 2, 1.3333, 0]
 	},
 	"EvolutionIds": [62],
@@ -3448,15 +3448,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [237, 216]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [107, 54, 33]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2, 0.6667, 1.6667, 1.6667, 0, 2, 1.2333, 0]
 	},
 	"EvolutionIds": [],
@@ -3504,15 +3504,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [234]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [60, 99, 70]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [0, 0.6667, 1.6667, 0.6667, 0, 2.1667, 2.6667, 0]
 	},
 	"EvolutionIds": [64],
@@ -3560,15 +3560,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [226, 235]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [30, 86, 70]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.7333, 0.6667, 1.6667, 1.8667, 0, 2.1, 1.7333, 0]
 	},
 	"EvolutionIds": [65],
@@ -3616,15 +3616,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [226, 235]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [108, 86, 70]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2, 0.6667, 1.6667, 1.5, 0, 2.3333, 2.5, 2]
 	},
 	"EvolutionIds": [],
@@ -3672,15 +3672,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [207, 208]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [56, 123, 28]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.2667, 0.6667, 2, 1.7333, 0, 2.1667, 1, 0]
 	},
 	"EvolutionIds": [67],
@@ -3728,15 +3728,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [207, 208]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [54, 123, 28]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.5, 0.6667, 1.6667, 1.6667, 0, 2.1667, 1.0667, 0]
 	},
 	"EvolutionIds": [68],
@@ -3784,15 +3784,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [229, 208]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [32, 54, 28]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.6667, 0.6667, 1.6667, 1.6667, 0, 1.6667, 1.3333, 1.333333]
 	},
 	"EvolutionIds": [],
@@ -3840,15 +3840,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [214, 225]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [118, 90, 13]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.7, 0.6667, 2.5, 1.8333, 0, 2, 2, 0]
 	},
 	"EvolutionIds": [70],
@@ -3896,15 +3896,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [215, 225]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [118, 90, 59]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.8, 0.6667, 1.5333, 0.6667, 0, 2.2667, 2, 0]
 	},
 	"EvolutionIds": [71],
@@ -3952,15 +3952,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [215, 225]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [117, 90, 116]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2, 0.6667, 1.6667, 0.6667, 0, 2.1667, 2, 0]
 	},
 	"EvolutionIds": [],
@@ -4008,15 +4008,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [237, 236]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [53, 105, 13]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.6667, 0.6667, 1.6667, 0.6667, 0, 2.3, 2, 0]
 	},
 	"EvolutionIds": [73],
@@ -4064,15 +4064,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [225, 224]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [107, 91, 40]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.1667, 0.6667, 1.3333, 0.6667, 0, 2, 2.6667, 2]
 	},
 	"EvolutionIds": [],
@@ -4120,15 +4120,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [227, 221]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [64, 63, 26]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.3333, 0.6667, 1.6667, 0.6667, 0, 2, 1.6667, 0]
 	},
 	"EvolutionIds": [75],
@@ -4176,15 +4176,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [227, 216]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [26, 32, 64]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.3333, 0.6667, 1.8667, 1.8333, 0, 2, 1.6667, 0]
 	},
 	"EvolutionIds": [76],
@@ -4232,15 +4232,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [227, 216]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [32, 62, 31]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.6667, 0.6667, 2, 2, 0, 2.1667, 2, 0]
 	},
 	"EvolutionIds": [],
@@ -4288,15 +4288,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [221, 209]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [101, 21, 103]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.3333, 0.6667, 1.6667, 1.5, 5.333333, 2.3333, 1.6667, 0]
 	},
 	"EvolutionIds": [78],
@@ -4344,15 +4344,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [207, 209]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [103, 46, 42]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.0667, 0.8333, 2.3333, 1.8667, 0, 2.1667, 2.6667, 0]
 	},
 	"EvolutionIds": [],
@@ -4400,15 +4400,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [230, 235]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [105, 60, 108]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [3, 0.6667, 2, 1.6667, 0, 2, 1.6667, 0]
 	},
 	"EvolutionIds": [80],
@@ -4456,15 +4456,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [230, 235]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [105, 108, 39]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.3333, 0.6667, 1.6667, 2.1, 0, 1.8333, 2, 3]
 	},
 	"EvolutionIds": [],
@@ -4512,15 +4512,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [206, 205]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [35, 72, 79]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.3333, 0.6667, 1.2333, 0.6667, 0, 2, 1.1667, 1.166667]
 	},
 	"EvolutionIds": [82],
@@ -4568,15 +4568,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [206, 205]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [35, 72, 36]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.5, 0.6667, 1.3333, 0.6667, 0, 1.8333, 2, 0]
 	},
 	"EvolutionIds": [],
@@ -4624,15 +4624,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [223, 200]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [45, 121, 117]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.6667, 0.6667, 1.6667, 1.8333, 0, 1.8333, 1.6, 0]
 	},
 	"EvolutionIds": [],
@@ -4680,15 +4680,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [211, 219]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [38, 45, 125]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2, 0.6667, 1.6667, 1.5, 0, 2, 1.5333, 0]
 	},
 	"EvolutionIds": [85],
@@ -4736,15 +4736,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [238, 239]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [38, 45, 121]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.3333, 0.6667, 1.6667, 2, 0, 2, 2, 0]
 	},
 	"EvolutionIds": [],
@@ -4792,15 +4792,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [217, 230]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [57, 111, 58]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.6667, 0.6667, 1.8333, 1.6667, 0, 2, 2, 0]
 	},
 	"EvolutionIds": [87],
@@ -4848,15 +4848,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [218, 217]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [111, 57, 40]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.0667, 0.8333, 1.6667, 0.6667, 0, 2.3333, 2, 0]
 	},
 	"EvolutionIds": [],
@@ -4904,15 +4904,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [225, 233]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [18, 96, 90]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.6667, 0.6667, 1.6667, 1.6667, 10, 1.6667, 2.6667, 0]
 	},
 	"EvolutionIds": [89],
@@ -4960,15 +4960,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [225, 224]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [16, 92, 91]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2, 1, 1.6667, 2.1667, 10, 2, 2.6667, 0]
 	},
 	"EvolutionIds": [],
@@ -5016,15 +5016,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [217, 221]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [53, 105, 111]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2, 0.6667, 1.6667, 1.6667, 0, 1.6667, 2.6667, 0]
 	},
 	"EvolutionIds": [91],
@@ -5072,15 +5072,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [218, 217]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [111, 107, 40]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.4333, 0.6667, 1.7333, 0.6667, 0, 2.3333, 1.9667, 3.8]
 	},
 	"EvolutionIds": [],
@@ -5128,15 +5128,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [212, 203]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [69, 16, 90]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [0, 0.6667, 1.6667, 1, 0, 2.1333, 2.1333, 0]
 	},
 	"EvolutionIds": [93],
@@ -5184,15 +5184,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [213, 212]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [70, 16, 90]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.1667, 0.6667, 1.6667, 0.6667, 0, 2.3333, 2, 0]
 	},
 	"EvolutionIds": [94],
@@ -5240,15 +5240,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [203, 213]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [70, 16, 91]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.6667, 0.6667, 1.6667, 1.8333, 0, 1.6667, 1.3333, 1.666667]
 	},
 	"EvolutionIds": [],
@@ -5296,15 +5296,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [227, 221]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [64, 32, 74]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.3333, 0.6667, 1.7333, 1.7333, 0, 2.3333, 2.0333, 0]
 	},
 	"EvolutionIds": [],
@@ -5352,15 +5352,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [222, 235]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [30, 60, 108]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.8333, 0.6667, 1.6667, 1.7667, 0, 2, 2.3333, 0]
 	},
 	"EvolutionIds": [97],
@@ -5408,15 +5408,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [234, 235]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [60, 108, 70]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.8667, 0.6667, 2, 1.4333, 0, 2.6667, 1.6, 0]
 	},
 	"EvolutionIds": [],
@@ -5464,15 +5464,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [237, 216]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [20, 53, 105]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.4333, 0.6667, 1.6667, 1.5, 0, 2.3333, 1.3333, 0]
 	},
 	"EvolutionIds": [99],
@@ -5520,15 +5520,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [228, 216]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [20, 100, 105]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.2667, 0.6667, 1.8, 1.5667, 0, 2, 1.5333, 0]
 	},
 	"EvolutionIds": [],
@@ -5576,15 +5576,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [206, 221]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [35, 79, 99]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.6667, 0.6667, 1.6667, 1.8333, 0, 2.3333, 2, 2]
 	},
 	"EvolutionIds": [101],
@@ -5632,15 +5632,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [206, 221]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [35, 79, 14]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.3333, 0.6667, 1.6667, 1.8333, 0, 2.3333, 3, 0]
 	},
 	"EvolutionIds": [],
@@ -5688,15 +5688,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [235]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [59, 108, 62]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.5, 0.6667, 1.6667, 1.6667, 0, 2, 2, 0]
 	},
 	"EvolutionIds": [103],
@@ -5744,15 +5744,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [235, 234]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [59, 108, 116]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.4667, 0.6667, 1.6667, 2, 0, 2.2, 1.6, 0]
 	},
 	"EvolutionIds": [],
@@ -5800,15 +5800,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [233, 241]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [94, 26, 95]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.7333, 0.6667, 1.6, 1.6, 0, 1.8333, 1.6, 0]
 	},
 	"EvolutionIds": [105],
@@ -5856,15 +5856,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [233, 241]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [94, 26, 31]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2, 0.6667, 1.6667, 1.5, 0, 2, 1.4, 0]
 	},
 	"EvolutionIds": [],
@@ -5912,15 +5912,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [207, 241]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [127, 56, 32]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.6667, 0.6667, 1.6667, 1.5, 0, 2, 0.9333, 0]
 	},
 	"EvolutionIds": [],
@@ -5968,15 +5968,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [229, 241]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [115, 33, 77, 123]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.5, 0.6667, 1.6667, 1.6667, 0, 1.7333, 0.6667, 0]
 	},
 	"EvolutionIds": [],
@@ -6024,15 +6024,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [212, 234]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [14, 127, 118]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.6667, 0.6667, 1.6667, 1.7333, 0, 2, 0.8, 0]
 	},
 	"EvolutionIds": [],
@@ -6080,15 +6080,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [225, 221]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [18, 90, 16]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.3333, 0.6667, 1.5, 0.6667, 6.666667, 2, 2, 0]
 	},
 	"EvolutionIds": [110],
@@ -6136,15 +6136,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [225, 221]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [90, 70, 16]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2, 0.6667, 1.6667, 0.6667, 3.333333, 2.4667, 2.6667, 0]
 	},
 	"EvolutionIds": [],
@@ -6192,15 +6192,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [233, 241]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [95, 126, 127]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.7667, 1, 1.5, 1.8333, 0, 2.6667, 2.4, 0]
 	},
 	"EvolutionIds": [112],
@@ -6248,15 +6248,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [233, 241]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [22, 31, 32]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.7, 0.6667, 2.1, 1.7, 0, 2, 1.6, 0]
 	},
 	"EvolutionIds": [],
@@ -6304,15 +6304,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [222, 234]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [108, 30, 86]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.1667, 0.6667, 2, 1.5667, 0, 2.1667, 1.7333, 1.666667]
 	},
 	"EvolutionIds": [],
@@ -6360,15 +6360,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [214]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [118, 90, 116]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2, 0.6667, 1.8333, 1.8333, 0, 2.5, 1.8667, 0]
 	},
 	"EvolutionIds": [],
@@ -6416,15 +6416,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [233, 207]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [123, 31, 127]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.1333, 0.6667, 1.6667, 1.5, 0, 2.3333, 2.3333, 2.333333]
 	},
 	"EvolutionIds": [],
@@ -6472,15 +6472,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [230, 237]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [53, 82, 36]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [0, 0.6667, 1.7333, 0.8333, 0.333333, 1.6667, 2, 0]
 	},
 	"EvolutionIds": [117],
@@ -6528,15 +6528,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [230, 204]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [40, 82, 107]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [0, 0.6667, 1.6667, 0.6667, 0, 1.8333, 2, 0]
 	},
 	"EvolutionIds": [],
@@ -6584,15 +6584,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [211, 216]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [105, 126, 58]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [3, 1, 1.6667, 0.6667, 0, 2.1667, 2.3, 0]
 	},
 	"EvolutionIds": [119],
@@ -6640,15 +6640,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [211, 224]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [111, 46, 22]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [3.5, 0.6667, 1.6667, 0.8333, 0, 1.6667, 2, 0]
 	},
 	"EvolutionIds": [],
@@ -6696,15 +6696,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [219, 230]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [125, 53, 65]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.3333, 0.6667, 1.6667, 1.8333, 0, 1.6667, 2, 2]
 	},
 	"EvolutionIds": [121],
@@ -6752,15 +6752,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [219, 230]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [107, 65, 30]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.7333, 0.6667, 1.8667, 2.1, 0, 2.6667, 1.9, 2.1]
 	},
 	"EvolutionIds": [],
@@ -6808,15 +6808,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [235, 234]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [30, 108, 70]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.6667, 0.8333, 1.8333, 2, 0, 2, 2.5333, 0]
 	},
 	"EvolutionIds": [],
@@ -6864,15 +6864,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [200, 239]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [51, 100, 49]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.7333, 0.6667, 1.6667, 0.6667, 0, 2, 2, 0]
 	},
 	"EvolutionIds": [],
@@ -6920,15 +6920,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [218, 222]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [85, 33, 60]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.2667, 0.6667, 1.6667, 1.7667, 0, 1.8667, 2, 0]
 	},
 	"EvolutionIds": [],
@@ -6976,15 +6976,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [205, 207]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [77, 79, 78]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.5, 0.6667, 1.5, 1.5, 0, 1.6667, 1.3333, 0]
 	},
 	"EvolutionIds": [],
@@ -7032,15 +7032,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [209, 208]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [103, 115, 24]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.6667, 0.6667, 1.6667, 1.8333, 8, 2, 2, 0]
 	},
 	"EvolutionIds": [],
@@ -7088,15 +7088,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [241, 200]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [20, 100, 54]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2, 0.6667, 1.6667, 1.8333, 0, 2, 1.3333, 0]
 	},
 	"EvolutionIds": [],
@@ -7144,15 +7144,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [221, 234]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [126, 74, 31]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.3333, 0.6667, 1.6667, 2, 0, 1.6667, 1.6, 0]
 	},
 	"EvolutionIds": [],
@@ -7200,15 +7200,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [231]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [133]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.3333, 0.6667, 0, 1.5, 0, 0, 1, 0]
 	},
 	"EvolutionIds": [130],
@@ -7256,15 +7256,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [204, 202]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [107, 80, 82]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2, 0.6667, 1.5, 0.6667, 0, 2.3333, 2, 2]
 	},
 	"EvolutionIds": [],
@@ -7312,15 +7312,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [218, 217]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [82, 39, 40]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.6667, 0.6667, 1.6667, 1.9, 0, 2.4, 3, 2.666667]
 	},
 	"EvolutionIds": [],
@@ -7368,15 +7368,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [222]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [133]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [0, 0.6667, 1.6667, 1.6667, 0, 2, 2, 0]
 	},
 	"EvolutionIds": [],
@@ -7424,15 +7424,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [219, 221]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [26, 125, 131]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.4667, 0.6667, 2.0667, 1.8333, 0, 2.3333, 0.8667, 1.233333]
 	},
 	"EvolutionIds": [134, 135, 136],
@@ -7480,15 +7480,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [230]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [105, 107, 58]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.8667, 0.6667, 1.9, 1.7, 0, 2, 2.1333, 2.133333]
 	},
 	"EvolutionIds": [],
@@ -7536,15 +7536,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [205]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [35, 79, 78]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.6333, 0.6667, 1.9333, 2.3333, 0, 2.6667, 1.3333, 1.866667]
 	},
 	"EvolutionIds": [],
@@ -7592,15 +7592,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [209]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [103, 24, 42]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.5, 0.6667, 1.6667, 2.0667, 0, 2.3333, 1, 2.666667]
 	},
 	"EvolutionIds": [],
@@ -7648,15 +7648,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [219, 221]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [30, 99, 35]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.8333, 0.6667, 0, 0.6667, 0, 2.6667, 1.6, 0]
 	},
 	"EvolutionIds": [],
@@ -7704,15 +7704,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [230, 216]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [62, 104, 63]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2, 0.6667, 1.6667, 1.8333, 0, 2.3333, 2.6667, 0]
 	},
 	"EvolutionIds": [139],
@@ -7760,15 +7760,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [227, 230]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [62, 107, 64]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2, 0.6667, 1.6667, 1.8333, 0, 2, 2.6667, 0]
 	},
 	"EvolutionIds": [],
@@ -7816,15 +7816,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [220, 216]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [62, 57, 63]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [0, 0.6667, 0, 1.5, 0, 2, 2, 0]
 	},
 	"EvolutionIds": [141],
@@ -7872,15 +7872,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [216, 200]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [62, 105, 32]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.1667, 0.6667, 1.6667, 1.6, 0, 2.2, 1.2, 0]
 	},
 	"EvolutionIds": [],
@@ -7928,15 +7928,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [239, 202]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [62, 74, 14]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.1667, 0.9, 1.5, 0.7333, 0, 2, 1.3333, 1.666667]
 	},
 	"EvolutionIds": [],
@@ -7984,15 +7984,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [234, 212]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [131, 14, 31]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.4, 0.6667, 1.8333, 1.6667, 0, 2.5, 2.5, 2.333333]
 	},
 	"EvolutionIds": [],
@@ -8040,15 +8040,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [218]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [39, 111, 40]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.0667, 1, 1.6667, 0.6667, 0, 2.4, 1.3333, 1.333333]
 	},
 	"EvolutionIds": [],
@@ -8096,15 +8096,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [205]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [35, 79, 78]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.6, 0.8333, 1.5, 0.8333, 0, 2, 1, 1.666667]
 	},
 	"EvolutionIds": [],
@@ -8152,15 +8152,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [209]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [103, 42, 24]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.7333, 1.3333, 2, 1.1667, 0, 2.5, 1.8, 1.8]
 	},
 	"EvolutionIds": [],
@@ -8208,15 +8208,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [204]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [13, 80, 58]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.6667, 0.6667, 1.8333, 1.4333, 0, 2, 1.6, 0]
 	},
 	"EvolutionIds": [148],
@@ -8264,15 +8264,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [204]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [13, 58, 82]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.6, 0.6667, 1.6667, 2, 0, 2.5, 2, 2]
 	},
 	"EvolutionIds": [149],
@@ -8320,15 +8320,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [204, 239]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [82, 14, 83]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.6667, 0.6667, 1.6667, 0.8333, 0, 2.6667, 1.5, 1.5]
 	},
 	"EvolutionIds": [],
@@ -8376,15 +8376,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [226, 235]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [108, 70, 14]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [1.3333, 0.6667, 1.6667, 2, 0, 2, 3, 3]
 	},
 	"EvolutionIds": [],
@@ -8432,15 +8432,15 @@ var PokemonSettings=JSON.parse(`{
 		"DodgeEnergyDelta": 0
 	},
 	"QuickMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [222]
 	},
 	"CinematicMoves": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[POGOProtos.Enums.PokemonMove, POGOProtos]], Google.Protobuf",
 		"$values": [122, 31, 108, 82, 78, 87, 103, 116, 14]
 	},
 	"AnimationTime": {
-		"$type": "Google.Protobuf.Collections.RepeatedField`1[[System.Single, mscorlib]], Google.Protobuf",
+		"$type": "Google.Protobuf.Collections.RepeatedField1[[System.Single, mscorlib]], Google.Protobuf",
 		"$values": [2.6667, 0.6667, 1.6667, 0.6667, 0, 2.6667, 1.6667, 2]
 	},
 	"EvolutionIds": [],
