@@ -1,4 +1,4 @@
-var PokemonSettings=JSON.parse('{
+var PokemonSettings=JSON.parse(`{
 	"$type": "POGOProtos.Settings.Master.PokemonSettings, POGOProtos",
 	"PokemonId": 1,
 	"ModelScale": 1.09,
@@ -8454,4 +8454,4 @@ var PokemonSettings=JSON.parse('{
 	"KmDistanceToHatch": 0,
 	"FamilyId": 151,
 	"CandyToEvolve": 0
-}');
+}`);
