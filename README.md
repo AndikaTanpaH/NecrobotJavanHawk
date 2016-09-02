@@ -4,7 +4,7 @@ Happy Indepedence Day for my country (Indonesia 17 August 2016)
 Some big its coming soon.. with new design, and more features..
 
 ![Screenshot](https://github.com/AndikaTanpaH/NecrobotJavanHawk/blob/master/screenshot/viewpokemon-v0923.jpg?raw=true) 
-This for visual ~~Necrobot (v0.8.6)~~ Necrobot Forked (v0.9.3) & PokeMobBot (v2.0.3ish) if any update from there i'll update this page. Don't forget to [create issue](https://github.com/AndikaTanpaH/NecrobotJavanHawk/issues) if you found any bug or feature request to improve this JavanHawk. I hope you happy at all :D
+This for visual ~~Necrobot (v0.8.6)~~ Necrobot Forked (v0.9.7) & PokeMobBot (v2.0.3ish) if any update from there i'll update this page. Don't forget to [create issue](https://github.com/AndikaTanpaH/NecrobotJavanHawk/issues) if you found any bug or feature request to improve this JavanHawk. I hope you happy at all :D
 
 Note: Please check your bot, if didnt work create a issue and give me a link about the bot.
 
@@ -42,9 +42,10 @@ Big thanks for your Donation, it will support my creativity and time for improve
 - [x] Bulk evolved pokemon (CTRL + Click)
 - [x] Colorfull IV value, need this for bulk transfer / elvoved
 - [x] Can delete Item (Click the item from inventory list)
-- [ ] Show Pokemon informartion in Gym
+- [ ] Snipe Pokemon^ (intregation with msniper protocol)
+- [ ] Show Pokemon if on Gym^
+- [ ] Set Pokemon to Favorite^
 - [ ] Rename Pokemon** (its can be banned?)
-- [ ] Set Pokemon to Favorite (under progess)
 - [ ] Use gmaps api (long long planning a head)
 
 ^Next update
