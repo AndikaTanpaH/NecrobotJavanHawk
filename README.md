@@ -1,3 +1,8 @@
+![Star](https://img.shields.io/github/stars/AndikaTanpaH/NecrobotJavanHawk.svg?style=social)
+[![All Releases](https://img.shields.io/github/downloads/AndikaTanpaH/NecrobotJavanHawk/total.svg?maxAge=100)](https://github.com/AndikaTanpaH/NecrobotJavanHawk/releases)
+[![Latest Release](https://img.shields.io/github/release/AndikaTanpaH/NecrobotJavanHawk.svg?maxAge=100)](https://github.com/AndikaTanpaH/NecrobotJavanHawk/latest)
+
+
 # JavanHawk v0.9.26  ![Screenshot](https://github.com/AndikaTanpaH/NecrobotJavanHawk/blob/master/build/javanhawkcolor.png?raw=true) 
 Happy Indepedence Day for my country (Indonesia 17 August 2016)
 
