@@ -14,7 +14,7 @@ This for visual ~~Necrobot (v0.8.6)~~ Necrobot Forked (v0.9.7) & PokeMobBot (v2.
 Note: Please check your bot, if didnt work create a issue and give me a link about the bot.
 
 ## Donation
-You like JavanHawk? Feel free to buy Me a Coffe Latte, by using:
+You like JavanHawk? Feel free to buy Me a :coffee: Coffee Latte, by using:
 
 Bitcoin | Paypal
 --- | ---
