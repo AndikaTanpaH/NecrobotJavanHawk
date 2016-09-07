@@ -14,8 +14,11 @@ This for visual ~~Necrobot (v0.8.6)~~ Necrobot Forked (v0.9.7) & PokeMobBot (v2.
 Note: Please check your bot, if didnt work create a issue and give me a link about the bot.
 
 ## Donation
-You like JavanHawk? Feel free to buy Me a Coffe Latte, by using Bitcoin `1M188dkAz1rXy8pufvGyuEJm9gHN98wh3V`
-or [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NJF9XK7S2S5EG)
+You like JavanHawk? Feel free to buy Me a Coffe Latte, by using:
+
+Bitcoin | Paypal
+--- | ---
+`1M188dkAz1rXy8pufvGyuEJm9gHN98wh3V` | [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NJF9XK7S2S5EG)
 
 Big thanks for your Donation, it will support my creativity and time for improved The Javan Hawk. And now need for server to graph snipe data.
 
