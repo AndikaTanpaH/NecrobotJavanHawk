@@ -9,7 +9,15 @@ Happy Indepedence Day for my country (Indonesia 17 August 2016)
 Some big its coming.. with fresh new design, and more features..
 
 ![Screenshot v1.0.0](https://github.com/AndikaTanpaH/NecrobotJavanHawk/blob/master/screenshot/rilisv100.jpg?raw=true) 
-This for visual ~~Necrobot (v0.8.6)~~ Necrobot Forked (v0.9.7) & PokeMobBot (v2.0.3ish) if any update from there i'll update this page. Don't forget to [create issue](https://github.com/AndikaTanpaH/NecrobotJavanHawk/issues) if you found any bug or feature request to improve this JavanHawk. I hope you happy at all :D
+This for visual ~~Necrobot (v0.8.6)~~ Necrobot ~~Forked~~ (v0.9.x) & PokeMobBot (v2.0.3ish) if any update from there i'll update this page. Don't forget to [create issue](https://github.com/AndikaTanpaH/NecrobotJavanHawk/issues) if you found any bug or feature request to improve this JavanHawk. I hope you happy at all :D
+
+Probably of new features the next version | Piority
+--- | ---
+Force walking to destination | 1
+Show information if on Gym | 2
+Manual Renaming Pokemon | 3
+Use google maps api | 4
+
 
 Note: Please check your bot, if didnt work create a issue and give me a link about the bot.
 
