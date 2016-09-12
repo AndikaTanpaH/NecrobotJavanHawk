@@ -13,10 +13,10 @@ This for visual ~~Necrobot (v0.8.6)~~ Necrobot ~~Forked~~ (v0.9.x) & PokeMobBot 
 
 Probably of new features the next version | Piority
 --- | ---
-Force walking to destination | 1
+Force walking to destination | finishing
 Show information if on Gym | 2
 Manual Renaming Pokemon | 3
-Use google maps api | 4
+Use google maps api (experimental) | finishing
 
 
 Note: Please check your bot, if didnt work create a issue and give me a link about the bot.
