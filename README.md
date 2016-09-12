@@ -13,17 +13,17 @@ This for visual ~~Necrobot (v0.8.6)~~ Necrobot ~~Forked~~ (v0.9.x) & PokeMobBot 
 
 Probably of new features the next version | Piority
 --- | ---
-Force walking to destination | finishing
 Show information if on Gym | 2
 Manual Renaming Pokemon | 3
-Use google maps api (experimental) | finishing
-Snipe filter setting | finishing
+Force walking to destination | done
+Use google maps api (experimental) | done
+Snipe filter setting | done
 
 
 Note: Please check your bot, if didnt work create a issue and give me a link about the bot.
 
 ## Donation
-You like JavanHawk? Feel free to buy Me a :coffee: Coffee Latte, by using:
+You like JavanHawk? Feel free to buy Me a :coffee: Coffee Latte :coffee:  by using:
 
 Bitcoin | Paypal
 --- | ---
@@ -50,7 +50,7 @@ Big thanks for your Donation, it will support my creativity and time for improve
 - [x] Responsive view list (not working for small display ex: mobile phone under 720px)
 - [x] Show incubator eggs
 - [x] Show inventory items
-- [x] Powerup Pokemon^^
+- [x] Powerup Pokemon
 - [x] Themes management (three theme at now)
 - [x] Bulk transfer pokemon (CTRL + Click)
 - [x] Bulk evolved pokemon (CTRL + Click)
@@ -59,13 +59,13 @@ Big thanks for your Donation, it will support my creativity and time for improve
 - [x] Snipe Pokemon (intregation with msniper protocol)
 - [x] Set Pokemon to Favorite
 - [x] Bulk un/starred pokemon (CTRL + Click)
+- [x] Force walking to Destination
+- [x] Use gmaps api (experimental)
 - [ ] Show Pokemon if on Gym^
 - [ ] Rename Pokemon** (its can be banned?)
-- [ ] Use gmaps api (long long planning a head)
 
 ^Next update
 
-^^Need a custom Necrobot/PokeMobBot, I'm not share here, please buy Me a Coffe and I share it for You.
 
 For more information just hit the [Wiki Page](https://github.com/AndikaTanpaH/NecrobotJavanHawk/wiki)
 
