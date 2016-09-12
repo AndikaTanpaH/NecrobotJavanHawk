@@ -17,6 +17,7 @@ Force walking to destination | finishing
 Show information if on Gym | 2
 Manual Renaming Pokemon | 3
 Use google maps api (experimental) | finishing
+Snipe filter setting | finishing
 
 
 Note: Please check your bot, if didnt work create a issue and give me a link about the bot.
