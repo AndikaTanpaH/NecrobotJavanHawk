@@ -13,8 +13,9 @@ This for visual ~~Necrobot (v0.8.6)~~ Necrobot ~~Forked~~ (v0.9.x) & PokeMobBot 
 
 Probably of new features the next version | Piority
 --- | ---
-Show information if on Gym | 2
-Manual Renaming Pokemon | 3
+Show information if on Gym | 1
+Show Gym list | 2
+Manual Renaming Pokemon | maybe
 Force walking to destination | done
 Use google maps api (experimental) | done
 Snipe filter setting | done
