@@ -11,9 +11,11 @@ var Map = function(parentDiv) {
     this.layerPokestops = new L.LayerGroup();
     this.layerCatches = new L.LayerGroup();
     this.layerPath = new L.LayerGroup();
+    this.layerRealPath = new L.LayerGroup();
+    this.layerPathToPokestop = new L.LayerGroup();
 
     this.map = L.map(parentDiv, {
-        layers: [osm, this.layerPokestops, this.layerCatches, this.layerPath]
+        layers: [osm, this.layerPokestops, this.layerCatches, this.layerPath, this.layerRealPath, this.layerPathToPokestop ]
     });
 
    var baseLayers = {
@@ -25,15 +27,21 @@ var Map = function(parentDiv) {
     };
     var overlays = {
         "Path": this.layerPath,
+        "RealPath": this.layerRealPath,
+        "PathToPokestop": this.layerPathToPokestop,
         "Pokestops": this.layerPokestops,
         "Catches": this.layerCatches
     };
 
     L.control.layers(baseLayers, overlays).addTo(this.map);
 
+    this.pathToPokestop = null;
     this.path = null;
-
     this.steps = [];
+
+    this.realPath = null;
+    this.realSteps = [];
+
     this.catches = [];
     this.pokestops = [];
     this.availablePokestops = [];
@@ -43,6 +51,7 @@ var Map = function(parentDiv) {
 Map.prototype.saveContext = function() {
     sessionStorage.setItem("available", true);
     sessionStorage.setItem("steps", JSON.stringify(this.steps));
+    sessionStorage.setItem("realSteps", JSON.stringify(this.realSteps));
     sessionStorage.setItem("catches", JSON.stringify(this.catches));
     sessionStorage.setItem("pokestops", JSON.stringify(this.pokestops));
 }
@@ -53,6 +62,7 @@ Map.prototype.loadContext = function() {
             console.log("Load data from storage to restore session");
 
             this.steps = JSON.parse(sessionStorage.getItem("steps")) || [];
+            this.realSteps = JSON.parse(sessionStorage.getItem("steps")) || [];
             this.catches = JSON.parse(sessionStorage.getItem("catches")) || [];
             this.pokestops = JSON.parse(sessionStorage.getItem("pokestops")) || [];
 
@@ -78,29 +88,77 @@ Map.prototype.initPath = function() {
     if (this.path != null) return true;
 
     if (!this.me) {
+        var imgs = ["ash2_50",  "ash"];
+        var img = imgs[Math.floor((Math.random() * 2) + 1) - 1];
+
         this.map.setView([this.steps[0].lat, this.steps[0].lng], 16);
-        this.me = L.marker([this.steps[0].lat, this.steps[0].lng], { zIndexOffset: 200 }).addTo(this.map).bindPopup(`${this.steps[0].lat},${this.steps[0].lng}`);
+        var icon = L.icon({ iconUrl: `./assets/img/${img}.png`, iconSize: [50], iconAnchor: [22, 50], shadowSize:   [50, 64], });
+        this.me = L.marker([this.steps[0].lat, this.steps[0].lng], { icon: icon,  zIndexOffset: 200 }).addTo(this.map).bindPopup(`${this.steps[0].lat},${this.steps[0].lng}`);
         $(".loading").hide();
     }
 
     if (this.steps.length >= 2) {
         var pts = Array.from(this.steps, pt => L.latLng(pt.lat, pt.lng));
-        this.path = L.polyline(pts, { color: 'red' }).addTo(this.layerPath);
+        this.path = L.polyline(pts, { color: 'red', weight: 4 }).addTo(this.layerPath);
         return true;
     }
 
     return false;
 }
 
+Map.prototype.initRealPath = function(){
+
+    if (this.realPath != null) return true;
+
+    if (!this.realMe) {
+        this.map.setView([this.realSteps[0].lat, this.realSteps[0].lng], 16);
+        this.realMe = L.marker([this.realSteps[0].lat, this.realSteps[0].lng]).addTo(this.map).bindPopup(`${this.realSteps[0].lat},${this.realSteps[0].lng}`);
+        $(".loading").hide();
+    }
+
+    if (this.realSteps.length >= 2) {
+        this.realPath = L.polyline(this.realSteps, { color: '#dbd129', weight: 5 }).addTo(this.layerRealPath);
+        return true;
+    }
+    return false;
+
+}
+
+Map.prototype.addToRealPath = function(pt) {
+    var latLng = L.latLng(pt.lat, pt.lng);
+    this.realSteps.push(latLng);
+
+    if (this.initRealPath()) {
+        if(this.realSteps.length > 150)
+            this.realSteps.splice(0,1);
+
+        this.realPath.setLatLngs(this.realSteps);
+        this.realMe.setLatLng(latLng).getPopup().setContent(`${pt.lat},${pt.lng}`);
+    }
+}
 Map.prototype.addToPath = function(pt) {
-    this.steps.push(pt);
+    var latLng = L.latLng(pt.lat, pt.lng);
+    this.steps.push(latLng);
     if (this.initPath()) {
-        var latLng = L.latLng(pt.lat, pt.lng);
-        this.path.addLatLng(latLng);
+
+        if(this.steps.length > 150)
+            this.steps.splice(0,1);
+
+        this.path.setLatLngs(this.steps);
         this.me.setLatLng(latLng).getPopup().setContent(`${pt.lat},${pt.lng}`);
         if (global.config.followPlayer) {
             this.map.panTo(latLng, true);
         }
+    }
+}
+
+Map.prototype.generateRouteToDestiny = function(googleResponse) {
+    var pts = Array.from(googleResponse.UncodedPath.$values, pt => L.latLng(pt.Latitude, pt.Longitude));
+
+    if(this.pathToPokestop == null)
+        this.pathToPokestop = L.polyline(pts, { color: '#3542ec', weight: 2 }).addTo(this.layerPathToPokestop);
+    else{
+        this.pathToPokestop.setLatLngs(pts);
     }
 }
 
@@ -138,6 +196,15 @@ Map.prototype.addPokestops = function(forts) {
             this.availablePokestops.push(pt);
         }
     }
+}
+
+Map.prototype.updatePokestop = function(fort) {
+
+        var ps = this.availablePokestops.find(ps => ps.id == fort.id);
+        if (ps != null) {
+            var icon = L.icon({ iconUrl: `./assets/img/pokestop_available.png`, iconSize: [30, 50]});
+            pt.marker = L.marker([pt.lat, pt.lng], {icon: icon, zIndexOffset: 50}).addTo(this.layerPokestops).bindPopup(pt.Name);
+        }
 }
 
 Map.prototype.displayPokemonList = function(all, sortBy) {
